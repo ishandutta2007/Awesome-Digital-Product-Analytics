@@ -211,3 +211,5 @@ Star the repo if you find it useful!
 **Made for developers, engineering teams, and open-source advocates.**
 
 Let's keep AI coding tools powerful, transparent, and as open as practical.
+# Awesome-Digital-Product-Analytics
+
