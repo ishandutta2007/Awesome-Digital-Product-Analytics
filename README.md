@@ -8,10 +8,12 @@
 
 > A comprehensive, SEO-optimized, curated index of world-class digital product analytics platforms, open-source user analytics engines, behavioral event streams, session replay tools, transparent SaaS pricing tiers, and market dynamics.
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Product-Analytics?style=social)](https://github.com/ishandutta2007/Awesome-Digital-Product-Analytics/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Digital-Product-Analytics/pulls)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 </div>
 
@@ -23,6 +25,8 @@
 - [🔓 Open-Source (OSS) Product Analytics](#-open-source-oss-product-analytics)
 - [🔍 Key Evaluation Criteria](#-key-evaluation-criteria)
 - [🤝 Contributing](#-contributing)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
 - [📄 License](#-license)
 
 ---
@@ -92,6 +96,23 @@ Contributions, additions, and updates are warmly welcomed! 🌟
 4. Commit your changes: `git commit -m "feat: add [Tool Name] to digital product analytics list"`.
 5. Push to the branch: `git push origin feature/new-analytics-tool`.
 6. Open a Pull Request.
+
+---
+
+## 💖 Support
+
+Thank you for exploring **Awesome Digital Product Analytics**! If you find this curated directory helpful for evaluating tools, building products, or architecting analytics stacks, please consider showing your support:
+
+- ⭐ **Star** this repository to help others discover it.
+- 🍴 **Fork** and contribute your favorite analytics platforms or suggestions.
+- 📢 **Share** it with your developer, product, and data communities.
+- ☕ **Buy me a coffee / Sponsor**: If you appreciate this work, consider supporting ongoing maintenance on the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Digital-Product-Analytics&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Digital-Product-Analytics&type=date&legend=top-left)
 
 ---
 
