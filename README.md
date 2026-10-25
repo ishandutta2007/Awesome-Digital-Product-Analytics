@@ -10,7 +10,7 @@
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Product-Analytics?style=social)](https://github.com/ishandutta2007/Awesome-Digital-Product-Analytics/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Product-Analytics?style=social)](https://github.com/ishandutta2007/Awesome-Digital-Product-Analytics/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Digital-Product-Analytics/pulls)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -59,7 +59,7 @@ The table below catalogs premier commercial digital product analytics tools, sor
 
 Self-hosted, transparent, and privacy-respecting alternatives to proprietary trackers. Sorted descending by **GitHub Stargazers**:
 
-| 📦 Repository | ⭐ Popularity (GitHub Stars) | 🛠️ Tech Stack & Architecture | 💡 Key Strengths & Use Cases |
+| 📦 Repository | ⭐ Popularity (GitHub_Stars) | 🛠️ Tech Stack & Architecture | 💡 Key Strengths & Use Cases |
 | :--- | :--- | :--- | :--- |
 | **[PostHog](https://github.com/PostHog/posthog)** | [![Stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers) | Python, TypeScript, ClickHouse, Kafka | The definitive open-source product analytics suite: autocapture, session replay, heatmaps, feature flags, and A/B experimentation. |
 | **[Umami](https://github.com/umami-software/umami)** | [![Stars](https://img.shields.io/github/stars/umami-software/umami?style=social&color=white)](https://github.com/umami-software/umami/stargazers) | Next.js, Node.js, Prisma, PostgreSQL/MySQL | Ultra-lightweight, GDPR-compliant, privacy-first web and product event analytics without cookie banners. |
@@ -92,7 +92,7 @@ When selecting an analytics architecture for digital applications, teams benchma
 Contributions, additions, and updates are warmly welcomed! 🌟
 1. Fork this repository.
 2. Create a new branch: `git checkout -b feature/new-analytics-tool`.
-3. Add your proposed tool in the matching section following existing formatting standards (including specific pricing, verified free-tier limits, and star badges).
+3. Add your proposed tool in the matching section following existing formatting standards (including specific pricing, verified free-tier limits, and Stars_Badges).
 4. Commit your changes: `git commit -m "feat: add [Tool Name] to digital product analytics list"`.
 5. Push to the branch: `git push origin feature/new-analytics-tool`.
 6. Open a Pull Request.
